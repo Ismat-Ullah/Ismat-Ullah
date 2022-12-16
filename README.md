@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ismat-Ullah
 - 👀 I’m interested in web dev and mobile dev.
-- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on web/mobile projects
 - 📫 How to reach me twitter at Ismat_Ullah_
 
