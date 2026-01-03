@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm <b>Ismat Ullah</b></h1>
-<h3 align="center">Senior Full-Stack Developer | React • Next.js • Node.js • TypeScript</h3>
-
-<p align="center">
-  <a href="https://ismat-ullah.netlify.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/its-ismat-ullah/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:its.ismatullah@gmail.com">Email</a>
-</p>
+<div align="center">
+  <h1>👋 Hi, I'm <b>Ismat Ullah</b></h1>
+  <h3>🚀 Senior Full-Stack Engineer</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  </p>
+  <p>
+    <a href="https://ismat-ullah.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/its-ismat-ullah/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:its.ismatullah@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Senior Full-Stack Developer** with **3+ years of experience** building responsive and scalable web & mobile applications.  
-Currently working as a **Senior Full Stack Engineer** at **Bitsol Technologies**, where I collaborate with teams of 10–12 developers to deliver high-impact solutions.
+I'm a passionate **Senior Full-Stack Developer** with **4+ years of experience** building responsive and scalable web & mobile applications.
 
 I care deeply about clean UI, performance optimization, and delivering production-ready solutions that scale to millions of users.
 
@@ -68,90 +81,15 @@ Check my portfolio 👉 https://ismat-ullah.netlify.app/
 
 ## 💼 Featured Projects
 
-### 🛒 E-commerce Marketplace (10M+ Users)
-
-Revamped a large-scale marketplace serving **10M+ users globally** with Next.js, Material UI, and TanStack Query. Optimized SEO, API interactions, and implemented responsive UI with intuitive designs. Integrated Storybook for component libraries and automated code quality checks.
-
-**Tech Stack:** Next.js, Material UI, React Hook Form, TanStack Query, Storybook
-
-### 🌟 Women's Health Care Platform
-
-Developed a comprehensive holistic wellness platform integrating personalized health plans, practitioner booking systems, and transformation programs. Built with modern web technologies to provide an empowering and user-friendly healthcare experience.
-
-**Tech Stack:** React.js, Tailwind CSS, TanStack Query, Xano
-
-### 🚗 Real-Time Car Auction Platform
-
-Developed a dynamic car auction platform that facilitates real-time bidding, user registration, and vehicle listings. Integrated secure payment gateways and user-friendly interfaces for seamless transactions.
-
-**Tech Stack:** React, MySQL, React Query, Tailwind CSS, Socket.io
-
-### 🌐 Global Logistics Network Platform
-
-Developed a comprehensive B2B logistics network platform connecting enterprises worldwide. Built member directory, business inquiry system, event management, and member portal with real-time tracking, insurance services, and global network visualization.
-
-**Tech Stack:** Next.js, React, Material UI, TanStack Query
-
-### 💳 Fintech Mobile Application
-
-Led the development of a secure, user-friendly financial platform using React Native. Created companion web portals with Next.js to expand functionality and improve user experiences.
-
-**Tech Stack:** React Native, Next.js, Node.js, Express.js
-
-### 📊 Trading Journal Application
-
-Designed and implemented a comprehensive trading journal application with MERN stack for interactive visualizations to help traders record and analyze their trading activities.
-
-**Tech Stack:** React, MongoDB, Express.js, Node.js
-
-### 🖥️ Custom Web Client
-
-Developed a robust custom web client with React, Bootstrap, and React Query. Implemented server-side pagination with React Data Table and form handling with Formik.
-
-**Tech Stack:** React, Bootstrap, React Query, Formik, MySQL, Prisma
-
-### 🏞️ Turf Calculator
-
-Designed an advanced turf area calculator capable of calculating the precise amount of turf required for irregularly shaped grounds. This tool accounts for non-standard surfaces with obstacles and uneven edges.
-
-**Tech Stack:** React, React Konva
+- 🛒 **E-commerce Marketplace** (10M+ Users)
+- 🌟 **Women's Health Care Platform**
+- 🌐 **Global Logistics Network Platform**
+- 💳 **Fintech Mobile Application**
+- 🚗 **Real-Time Car Auction Platform**
+- 📊 **Trading Journal Application**
 
 👉 Check full details on my portfolio 👇  
 🌐 https://ismat-ullah.netlify.app/
-
----
-
-## 💼 Professional Experience
-
-### Senior Full Stack Engineer @ Bitsol Technologies
-
-**January 2024 - Present | Islamabad, Pakistan**
-
-- Collaborated with a team of 10–12 front-end developers to revamp a marketplace serving 10M+ active users
-- Revamped logistics company website with improved UI/UX and modern design
-- Developed comprehensive women's health care platform with personalized health plans and booking systems
-- Architected front-end using Next.js, MUI, and TanStack React Query, optimizing SEO and API interactions
-- Integrated Storybook for component libraries, enhancing developer-designer collaboration
-- Automated code quality checks using Husky, lint-staged, and commit-lint
-
-### Full Stack Developer @ ShnairTech
-
-**March 2023 - December 2023 | Lahore, Pakistan**
-
-- Led development of fintech mobile app in React Native
-- Created web portals using Next.js to expand mobile application functionality
-- Engineered scalable backends utilizing Node.js and Express.js
-- Deployed applications on Digital Ocean and GoDaddy
-- Designed and implemented trading journal applications
-
-### Software Engineer @ Techinn360
-
-**July 2022 - February 2023 | Rawalpindi, Pakistan**
-
-- Developed custom web clients using React, Bootstrap, React Query, and Formik
-- Implemented robust Node.js/Express web servers with MySQL database
-- Used Prisma ORM for data modeling and SQL queries
-- Delivered maintainable, well-documented code with comprehensive tests
 
 ---
 
