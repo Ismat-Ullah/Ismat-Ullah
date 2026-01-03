@@ -59,19 +59,6 @@ Check my portfolio 👉 https://ismat-ullah.netlify.app/
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ismat-Ullah&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismat-Ullah&layout=compact&theme=dark" />
-</p>
-
----
 
 ## 💼 Featured Projects
 
